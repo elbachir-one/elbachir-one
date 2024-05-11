@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/alphab91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphab91" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alphab91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphab91" height="30" width="40" /></a>
 <a href="https://discord.gg/xWWs76rZna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWWs76rZna" height="30" width="40" /></a>
 </p>
 
@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbachir-one&" alt="elbachir-one" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support ME:</h3>
 <p><a href="https://www.buymeacoffee.com/alphab91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91" /></a></p><br><br>
