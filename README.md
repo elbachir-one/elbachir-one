@@ -19,11 +19,7 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbachir-one&show_icons=true&locale=en&layout=compact" alt="elbachir-one" /></p>
-<br>
-<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elbachir-one&show_icons=true&locale=en" alt="elbachir-one" /></p>
-<br>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbachir-one&" alt="elbachir-one" /></p>
 
 <h3 align="left">Support ME:</h3>
