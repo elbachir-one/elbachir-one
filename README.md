@@ -19,14 +19,9 @@
 <br>
 <br>
 <hr>
-<div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbachir-one&show_icons=true&locale=en&layout=compact" alt="elbachir-one" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elbachir-one&show_icons=true&locale=en" alt="elbachir-one" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elbachir-one&" alt="elbachir-one" /></p>
-</div>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbachir-one&show_icons=true&locale=en&layout=compact" alt="elbachir-one" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elbachir-one&show_icons=true&locale=en" alt="elbachir-one" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbachir-one&" alt="elbachir-one" /></p>
 <hr>
-<div>
 <h3 align="left">Support ME:</h3>
 <p><a href="https://www.buymeacoffee.com/alphab91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91" /></a></p><br><br>
-</div>
