@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbachir-one&" alt="elbachir-one" /></p>
 <hr>
 <h3 align="left">Support ME:</h3>
-<p><a href="https://www.buymeacoffee.com/alphab91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91" target="blank" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/alphab91" target="blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91"/></a></p><br><br>
