@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Bachir (alphab91)</h1>
-<h3 align="center">A passionate developer from Morroco</h3>
+<h3 align="center">A passionate developer from Morocco 🇲🇦</h3>
 
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
