@@ -13,11 +13,17 @@
   <a href="https://discord.gg/xWWs76rZna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWWs76rZna" height="30" width="40" /></a>
 </p>
 
+<div style="background-color: #282828; padding: 20px; border-radius: 10px;">
+
 ### OS:
 
-| Linux | OpenBSD | Haiku OS | Qubes OS | Red Hat | Ubuntu | Kali |
-|-----------|------------|------------|-----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="60" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Haiku_%28operating_system%29_logo.svg" title="Haiku OS" alt="Haiku OS" width="60" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="QubesOS" alt="QubesOS" width="60" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
+| Linux | OpenBSD | Haiku OS | CubeOS | Red Hat | Ubuntu | Kali |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openbsd/openbsd-original.svg" title="OpenBSD" alt="OpenBSD" width="55" height="55"/> | <img src="https://www.haiku-os.org/files/haiku-logo-bw-r.png" title="Haiku OS" alt="Haiku OS" width="55" height="55"/> | <img src="https://www.qubes-os.org/attachment/wiki/QubesOS-logo-512x256.png" title="CubeOS" alt="CubeOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
+
+</div>
+
+<div style="background-color: #282828; padding: 20px; margin-top: 20px; border-radius: 10px;">
 
 ### Languages:
 
@@ -27,6 +33,10 @@
 | MATLAB | PHP | Python | Ruby | Sass | SQLite | TensorFlow | | | |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> | | | |
 
+</div>
+
+<div style="background-color: #282828; padding: 20px; margin-top: 20px; border-radius: 10px;">
+
 ### Tools:
 
 | Bootstrap | Docker | Git | Heroku | Hugo | Laravel |
@@ -34,6 +44,8 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> | <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> |
 | Linux | MongoDB | Nginx | Node.js | Rails |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> |
+
+</div>
 
 <hr>
 
