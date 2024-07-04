@@ -13,7 +13,7 @@
   <a href="https://discord.gg/xWWs76rZna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWWs76rZna" height="30" width="40" /></a>
 </p>
 
-<div style="background-color: #282828; padding: 20px; border-radius: 10px;">
+<div style="background-color: #000000; padding: 20px; border-radius: 10px;">
 
 ### OS:
 
