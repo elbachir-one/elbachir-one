@@ -26,8 +26,3 @@
 <h3 align="left">Support ME:</h3>
 <p><a href="https://www.buymeacoffee.com/alphab91" target="blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91"/></a></p><br><br>
 
-### OS:
-
-| Linux | Ubuntu | Kali | BSD | Haiku OS | CubeOS | Red Hat |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bsd/bsd-original.svg" title="BSD" alt="BSD" width="55" height="55"/> | <img src="https://haiku-os.org/files/haiku-logo-bw-r.png" title="Haiku OS" alt="Haiku OS" width="55" height="55"/> | <img src="https://www.qubes-os.org/attachment/wiki/QubesOS-logo-512x256.png" title="CubeOS" alt="CubeOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="55" height="55"/> |
