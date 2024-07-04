@@ -16,7 +16,7 @@
 ### OS:
 
 | Linux | OpenBSD | Haiku OS | Qubes OS | Red Hat | Ubuntu | Kali |
-|----------|----------|----------|----------|----------|----------|----------|
+|-----------|------------|------------|-----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Haiku_%28operating_system%29_logo.svg" title="Haiku OS" alt="Haiku OS" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="QubesOS" alt="QubesOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
 
 ### Languages:
